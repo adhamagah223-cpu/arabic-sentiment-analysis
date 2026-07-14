@@ -27,7 +27,7 @@ Brands in MENA lose millions due to poor understanding of Arabic dialects online
 3.  Run all cells in the notebook sequentially
 
 ### 🔗 Important Links
-- **Kaggle Notebook**: https://www.kaggle.com/code/adhamagah223-cpu/notebookdf20066113
+- **Kaggle Notebook**: https://www.kaggle.com/code/adhamagah/notebookdf20066113
 - **LinkedIn**: https://www.linkedin.com/in/adham-agah-b36849418
 
 ---
