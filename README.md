@@ -27,8 +27,8 @@ Brands in MENA lose millions due to poor understanding of Arabic dialects online
 3.  Run all cells in the notebook sequentially
 
 ### 🔗 Important Links
-- **Kaggle Notebook**: https://www.kaggle.com/code/adhamagah/notebookdf20066113
-- **LinkedIn**: https://www.linkedin.com/in/adham-agah-b36849418
+- **Kaggle Notebook**: [Click Here](https://www.kaggle.com/code/adhamagah/notebookdf20066113)
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/adham-agah-b36849418)
 
 ---
 *Project submitted for Salesforce AI Builder - Arabic Market Role*
