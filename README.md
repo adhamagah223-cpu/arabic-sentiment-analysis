@@ -1,3 +1,7 @@
+## Status: 🚧 In Progress
+
+**Goal:** Building an NLP pipeline to analyze 50K Arabic comments. Target accuracy: 87%.
+
 # Arabic Sentiment Analysis - MENA Market 🇸🇦🇪🇬
 
 A production-ready NLP pipeline to analyze 50,000 Arabic social media comments and detect brand sentiment across MENA dialects for CRM platforms.
